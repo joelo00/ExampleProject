@@ -1,2 +1,2 @@
 Hi
-Print World
+Print World and the example
